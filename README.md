@@ -20,7 +20,7 @@
     * IoT 센서 데이터 수신 및 처리를 위한 RESTful API 엔드포인트 설계 및 개발
     * React 대시보드와의 안정적인 데이터 연동 및 통신 로직 구현
 * **데이터베이스 스키마 설계 참여 및 최적화** (만약 해당된다면)
-* **주요 사용 기술:** React, Chart.js, JavaScript (ES6+), Python, FastAPI, HTML5, CSS3, Git
+* **주요 사용 기술:** React, Chart.js, JavaScript (ES6+), Python, FastAPI, HTML5, CSS3, Git, pycharm , node.js , vs code
 
 **💡 프로젝트를 통해 배운 점:**
 * 대규모 데이터를 실시간으로 처리하고 시각화하는 대시보드 개발 경험을 통해 React의 상태 관리 및 성능 최적화에 대한 깊이 있는 이해를 얻었습니다.
@@ -50,8 +50,7 @@ Spring Framework 환경에서 사용자와의 상호작용에 따라 동적으�
 HTML5, CSS3, JavaScript (ES6+)
 Spring Framework
 Figma
-Git, GitHub
-(언급된 대로) Visual Studio Code
+Git, GitHub , Visual Studio Code
 🏆 주요 성과:
 
 최우수상 수상: 프로젝트의 성공적인 수행과 우수한 결과물을 인정받아 팀 프로젝트 경진대회에서 최우수상을 수상했습니다.
