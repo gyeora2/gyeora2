@@ -122,12 +122,7 @@ https://github.com/2024-SMHRD-KDT-BigData-29/Plug
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyeora2&show_icons=true&theme=radical" alt="gyeora2's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeora2&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
+
 
 ### 📞 Contact
 <p>
