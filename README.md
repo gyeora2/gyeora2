@@ -51,6 +51,40 @@
 
 ---
 
+##  대표 프로젝트 3  
+### 나만의 이야기를 녹여내는 템플릿 (JUST)
+
+> **비동기 데이터 영속성과 인쇄(PDF) 최적화를 아우르는 실시간 이력서 빌더 프로젝트
+React · TypeScript · Supabase (PostgreSQL jsonb) · CSS Print 최적화 
+> 🏆 **핵심 프로젝트 경진대회 최우수상 수상**
+
+🔗 [프로젝트 저장소](https://github.com/gyeora2/gyeora2/edit/main/README.md)
+
+### ✅ 담당 역할 (Front-end)
+🎨 UI/UX & Front-end 구현 (Lead)
+사용자 경험(UX) 및 흐름 설계: 로그인, 회원가입, 실시간 에디터, A4 미리보기 간의 직관적인 뷰 전환(View Transition) 및 모듈형 UI 설계 주도
+
+실시간 데이터 바인딩: React 및 TypeScript를 활용해 폼 입력값 변화에 따른 실시간 미리보기 및 컴포넌트 마운트 주기 최적화 구현
+
+인쇄(PDF) 레이아웃 최적화: CSS 미디어 쿼리 및 조건부 렌더링을 적용하여, PDF 저장 및 인쇄 시 에디터 UI를 숨기고 오직 A4 결과물 중심의 레이아웃 완성
+
+🛠️ Back-end & Cloud Integration (Sub)
+클라우드 인증 시스템: Supabase Auth를 활용한 안전한 회원가입·로그인 및 onAuthStateChange 기반 실시간 영구 세션 관리 구축
+
+데이터 영속성(Persistence): PostgreSQL의 jsonb 타입을 활용해 계층적인 이력서 데이터를 유연하게 저장하고, 재방문 시 자동 복원되는 비동기 CRUD 파이프라인 구현
+
+💡 Trouble Shooting & Growth
+비동기 세션과 렌더링 타이밍 이슈 해결: 새로고침 시 데이터 유실 문제를 마주하며 useEffect와 Supabase 세션의 생명주기를 깊이 이해하고 사용자 이탈 방지 UX 구현
+
+출력물(PDF) 괴리 극복: 웹 에디터 화면과 실제 종이 출력물 간의 시각적 간극을 CSS Print 최적화로 해결하며 실용적인 프로덕트 가치 체득
+
+개발 환경 트러블슈팅: Tailwind CSS 설정 오류를 공식 문서 분석을 통해 주도적으로 해결하며 기본기를 다진 개발 역량 함양
+---
+
+
+
+
+
 ### 📚 Stacks (Front-end Focused)
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
