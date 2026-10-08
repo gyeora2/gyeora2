@@ -56,7 +56,7 @@
 
 > **비동기 데이터 영속성과 인쇄(PDF) 최적화를 아우르는 실시간 이력서 빌더 프로젝트
 React · TypeScript · Supabase (PostgreSQL jsonb) · CSS Print 최적화 
-> 🏆 **핵심 프로젝트 경진대회 최우수상 수상**
+
 
 🔗 [프로젝트 저장소](https://github.com/gyeora2/gyeora2/edit/main/README.md)
 
