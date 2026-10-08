@@ -76,7 +76,7 @@
 <p>
   <a href="mailto:lgr0223000@gmail.com"><img src="https://img.shields.io/badge/Email-lgr0223000@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
->>>>>>> 039efd4fc1f4d2e2562dff3f768f81af31f1cbec
+
 
 
 # React + TypeScript + Vite
