@@ -54,29 +54,6 @@ Spring Boot REST API 연동을 통한 상품 목록, 찜, 마이페이지 동적
 📱 대표 프로젝트 3
 고객 문의 및 처리 상태 관리 서비스 (JUST) · 개인 프로젝트
 
-고객 문의를 등록하고 처리 상태를 관리하는 웹 서비스입니다. 고객명·제목 검색과 상태 필터를 제공하며, 로그인한 계정은 자기 문의를 관리할 수 있습니다.
-
-React · Vite · JavaScript · Supabase Auth · PostgreSQL · Vercel
-
-🔗 [프로젝트 저장소](https://github.com/gyeora2/mini-crm) · [배포 데모](https://mini-crm-pi-gold.vercel.app/)
-
-✅ 담당 역할 (개인 프로젝트)
-
-React로 문의 등록·조회·수정·삭제, 상태 변경, 검색·필터 화면 구성
-
-Supabase Auth 로그인과 REST API 연동, PostgreSQL 행 수준 보안(RLS)으로 계정별 접근 제어 적용
-
-Vercel에 배포하고, 테스트 문의가 로그아웃 후 다시 로그인해도 표시되는 것을 확인
-
-💡 Trouble Shooting & Growth
-
-화면 상태와 DB 데이터 동기화: 저장·수정·삭제는 API 응답이 성공한 뒤 목록을 갱신하고, 조회 실패 시 재시도할 수 있도록 구성
-
-접근 제어 검증: 로컬 PostgreSQL에서 계정 간 조회·수정·삭제 차단을 확인하고, 운영 Supabase에서 비로그인 문의 조회가 차단되는 것을 확인
-
-🗂️ 대표 프로젝트 4
-고객 문의 및 처리 상태 관리 서비스 (WorkFlow CRM) · 개인 프로젝트
-
 고객 문의를 등록·조회·수정·삭제하고 처리 상태를 관리하는 웹 서비스입니다. 문의 제목이나 고객사 이름으로 검색하고, 접수·처리 중·완료 건수를 확인할 수 있습니다.
 
 React · Vite · JavaScript · Node.js · Express · PostgreSQL
